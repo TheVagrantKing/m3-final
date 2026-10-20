@@ -984,7 +984,7 @@ section #testimonials {
 }
 
 .testimonial__name {
-    ccolor: #4a5568;
+    color: #4a5568;
     line-height: 1.625;
     font-size: 1.25rem;
     font-weight: 700;
@@ -1151,7 +1151,7 @@ main {
 }
 
 .start__blob--1 {
-    position: relative;
+    position: absolute;
     bottom: 0px;
     left: 0px;
     height: 20rem;
@@ -1161,7 +1161,7 @@ main {
     opacity: 0.5;
 }
 .start__blob--2 {
-    position: relative;
+    position: absolute;
     bottom: 0px;
     left: 0px;
     height: 20rem;
